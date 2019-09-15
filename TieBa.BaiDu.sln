@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "关山难越", "关山难越", "{A378FF72-B14B-4A8B-BE5A-0AE960F4433D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "满天星", "关山难越\满天星\满天星.csproj", "{AB9124C5-3837-4C37-8A69-EF2B3CD77109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9124C5-3837-4C37-8A69-EF2B3CD77109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9124C5-3837-4C37-8A69-EF2B3CD77109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9124C5-3837-4C37-8A69-EF2B3CD77109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9124C5-3837-4C37-8A69-EF2B3CD77109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB9124C5-3837-4C37-8A69-EF2B3CD77109} = {A378FF72-B14B-4A8B-BE5A-0AE960F4433D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A3CAEAA-D05D-4186-80ED-F5D2B4EC75D6}
+	EndGlobalSection
+EndGlobal
